@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
