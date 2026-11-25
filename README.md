@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
