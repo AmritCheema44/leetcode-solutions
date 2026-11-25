@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
