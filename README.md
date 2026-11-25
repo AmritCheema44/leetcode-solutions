@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Design
 |  |
 | ------- |
