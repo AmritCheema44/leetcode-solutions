@@ -37,6 +37,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Binary Search
 |  |
 | ------- |
