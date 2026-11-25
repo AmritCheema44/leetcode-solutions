@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/AmritCheema44/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/AmritCheema44/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmritCheema44/leetcode-solutions/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/AmritCheema44/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
